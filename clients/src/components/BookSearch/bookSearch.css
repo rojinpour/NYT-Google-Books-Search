@@ -1,0 +1,25 @@
+.search {
+    width: 80%;
+    max-width: 1020px;
+    margin: 20px auto;
+    border: #555 solid 3px;
+    border-radius: 5px;
+  }
+  
+  .search p,
+  .search input,
+  .search button {
+    margin-left: 20px;
+  }
+  
+  .search p {
+    margin-bottom: 0;
+  }
+  
+  .search input {
+    width: calc(100% - 40px);
+  }
+  
+  .search button {
+    text-align: end;
+  }
